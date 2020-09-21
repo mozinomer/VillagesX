@@ -1,5 +1,5 @@
 body {
-	margin: 0px;
+    margin: 0px;
 }
 header {
     position: absolute;
@@ -312,4 +312,79 @@ footer .col:first-child {
 
 *:focus {
     outline: none;
+}
+.whoo {
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.whoo p {
+    max-width: 894px;
+    margin: auto;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.whoo h2 {
+    font-weight: 900;
+    font-size: 48px;
+    margin-bottom: 40px;
+}
+.bannerinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+    font-size: 45px;
+    min-height: 621px;
+    background-size: cover;
+}
+
+.bannerinner h2 {
+    font-size: 50px;
+    font-weight: 800;
+}
+.contentaboutus {
+    padding: 100px 0px;
+}
+
+.contentaboutus .row {
+    align-items: center;
+}
+
+.contentaboutus p {
+    color: #232323;
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 80%;
+    font-weight: 300;
+}
+
+.contentaboutus h2 {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.bannerinner {flex-wrap: wrap;}
+
+.bannerinner a {
+    flex: 0 100%;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    border: 2px solid #fff;
+    max-width: max-content;
+    display: block;
+    padding: 8px 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bannerinner h2 {
+    flex: 0 100%;
+    text-align: center;
+}
+.contentiasd a {
+    margin: auto;
+    margin-top: 40px;
 }
