@@ -459,3 +459,69 @@ footer .col:first-child {
     text-transform: capitalize;
     font-weight: 700;
 }
+
+@media only screen and (max-width: 767px) {
+.contenbanner h2 {
+    font-size: 32px;
+    max-width: 100%;
+    line-height: normal;
+}
+
+.bannerhome {
+    min-height: 380px;
+}
+
+.whoo {
+    padding: 40px 0px 40px;
+}
+
+.whoo h2 {
+    font-size: 32px;
+}
+
+.whoo p {
+    font-size: 13px;
+}
+
+.bannerinner {
+    min-height: 400px;
+}
+
+.bannerinner h2 {
+    font-size: 32px;
+}
+
+.contentaboutus p {
+    max-width: 100%;
+    line-height: 22px;
+    font-size: 13px;
+}
+
+.contentaboutus {
+    padding: 30px 0px 30px;
+}
+div#qweasd {
+    min-height: auto;
+    padding: 220px 0px  50px;
+}
+
+.contentrightside {
+    padding: 0px;
+}
+
+.productContainer {
+    margin-bottom: 40px;
+}
+
+.row.reversedlayout .contentrightside {
+    max-width: 100%;
+}
+
+.instasection {
+    padding: 40px 0px;
+}
+
+.instasection h2 {
+    font-size: 32px;
+}
+}
